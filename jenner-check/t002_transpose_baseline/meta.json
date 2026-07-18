@@ -1,0 +1,7 @@
+{
+  "bundle": "t002_transpose_baseline",
+  "source_file": "utl-adding-functionality-to-sas-proc-transpose-when-transposing-sets-of-variables.sas",
+  "source_blob_sha": "71d4680e8cb0dc53329b38797b5fa97a2f8efc41",
+  "source_commit": "f613627f4751a04bac028a31618398e346da994e",
+  "notes": "The repo's HAVE table fed into the baseline PROC TRANSPOSE documented in the file's '1 ISSUE WITH TRANSPOSE' section (by id cps; var find alleg), then PROC PRINT. The 12-row FIND/ALLEG listing matches the OUTPUT column shown next to that step in the source."
+}
