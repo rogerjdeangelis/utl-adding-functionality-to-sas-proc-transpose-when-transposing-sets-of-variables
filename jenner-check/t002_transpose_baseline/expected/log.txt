@@ -1,0 +1,19 @@
+NOTE: Jenner v1.5.37 (build v1.5.37+886f95a5f1.20260717T051227Z.x86_64-unknown-linux-gnu)
+
+NOTE: Option OBS changed to 100.
+NOTE: DATA have
+
+NOTE: Processing inline DATALINES (10 lines)
+
+NOTE: Read 10 rows from DATALINES.
+NOTE: Wrote have (10 rows, 4 columns).
+NOTE: DATA elapsed:
+  wall  0.00 seconds
+  cpu   0.00 seconds
+NOTE: PROC TRANSPOSE data=have
+
+NOTE: Created 12 rows.
+NOTE: Output written to /tmp/work/r_db108786bf284381bf69cb3e40ccc477/work/5ee4169a-67a3-4b30-b34c-12b529b07bb9/havxpo.avro.
+NOTE: PROC PRINT data=havxpo
+
+NOTE: PROC PRINT completed: 12 observations printed, 6 variables

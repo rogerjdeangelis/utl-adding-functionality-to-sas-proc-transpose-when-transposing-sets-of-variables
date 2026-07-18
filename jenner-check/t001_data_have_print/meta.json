@@ -1,0 +1,7 @@
+{
+  "bundle": "t001_data_have_print",
+  "source_file": "utl-adding-functionality-to-sas-proc-transpose-when-transposing-sets-of-variables.sas",
+  "source_blob_sha": "71d4680e8cb0dc53329b38797b5fa97a2f8efc41",
+  "source_commit": "f613627f4751a04bac028a31618398e346da994e",
+  "notes": "The repo's HAVE table read verbatim from its inline cards4 block (ID/CPS char, ALLEG/FIND numeric), then PROC PRINT. No path or logic edits; only a trailing PROC PRINT added to surface the created table."
+}
